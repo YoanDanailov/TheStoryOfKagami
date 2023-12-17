@@ -74,4 +74,5 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 # Marketplace Asssets
-Content/Plugins/*
+Content/PluginsArt/*
+Content/FluidNinjaLive/*
