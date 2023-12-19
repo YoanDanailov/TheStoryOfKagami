@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/user/Documents/Unreal Projects/ReflectionOfKagami/Content/Maps/q.umap",
+				"C:/Users/user/Documents/Unreal Projects/ReflectionOfKagami/Content/Kagami/GameFramework/Core/GameModes/BP_Kagami.uasset",
+				"C:/Users/user/Documents/Unreal Projects/ReflectionOfKagami/Content/Maps/MainMenuScene.umap",
+				"C:/Users/user/Documents/Unreal Projects/ReflectionOfKagami/Content/menu.uasset",
+				"C:/Users/user/Documents/Unreal Projects/ReflectionOfKagami/Content/Kagami/GameFramework/Core/Character/Teardrop__Remastered_2019_.uasset",
 				"C:/Users/user/Documents/Unreal Projects/TheStoryOfKagami/Content/Kagami/GameFramework/Core/Character/BP_MainCharacter.uasset",
 				"C:/Users/user/Documents/Unreal Projects/TheStoryOfKagami/Content/Kagami/GameFramework/Core/GameModes/BP_Kagami.uasset",
 				"C:/Users/user/Documents/Unreal Projects/TheStoryOfKagami/Content/Kagami/GameFramework/Core/Character/Input/IMC_Kagami.uasset",
